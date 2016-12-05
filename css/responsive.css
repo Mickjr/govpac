@@ -28,6 +28,10 @@
         margin-top:0px;
     }
 
+    /*.nav-right{
+        margin-top: -100px;
+    }*/
+
     #home-slider .item {
         padding:80px 0px 30px;
         height: 450px;
@@ -51,7 +55,12 @@
     
     .navbar .nav-right{
         margin-left: 0px;
+        margin-top: 1px;
     }
+
+ /*   .nav-right{
+        margin-top: -100px;
+    }*/
   
     .navbar .btn-navbar {
         margin-top: 18px;
@@ -213,6 +222,14 @@
         padding: 0px;
         margin:0;
     }
+
+    .navbar img {
+        position: absolute;
+        left: 35%;
+        clear: fix;
+        margin-top: -60px;
+        margin-left: -22px !important;
+    }
     
     .navbar .btn-navbar {
         margin-right: 20px;
@@ -292,6 +309,14 @@
     body{
         padding: 0px;
         margin:0;
+    }
+
+    .navbar img {
+        position: absolute;
+        left: 30%;
+        clear: fix;
+        margin-top: -60px;
+        margin-left: -40px !important;
     }
     
     .navbar .btn-navbar {
